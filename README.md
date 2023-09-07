@@ -1,2 +1,2 @@
 # HTML
-Learning HTML 
+Learning HTML.
